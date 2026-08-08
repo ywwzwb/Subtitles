@@ -14,9 +14,9 @@ Video File: S01E01 铝箔 滑雪板 隐形眼镜 面包.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 497
-Active Line: 501
-Video Position: 31668
+Scroll Position: 488
+Active Line: 80
+Video Position: 5000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,6 @@ Dialogue: 0,0:00:25.36,0:00:26.24,Translation,,0,0,0,,铝箔
 Dialogue: 1,0:00:25.36,0:00:26.24,Original,,0,0,0,,Aluminium foil.
 Dialogue: 0,0:00:26.96,0:00:31.36,Translation,,0,0,0,,如何轻松地把三吨重的铝锭变成眼前这片箔?
 Dialogue: 1,0:00:26.96,0:00:31.36,Original,,0,0,0,,How do we get from a three-ton ingot to this in one easy motion?
-Dialogue: 2,0:00:26.96,0:00:31.36,Annotation,,0,0,0,,铝锭：约三吨重的铝块
 Dialogue: 0,0:00:36.88,0:00:38.18,Translation,,0,0,0,,滑雪板
 Dialogue: 1,0:00:36.88,0:00:38.18,Original,,0,0,0,,Snowboards.
 Dialogue: 0,0:00:38.18,0:00:44.16,Translation,,0,0,0,,这种混合设计, 其精密程度得益于古老工艺与计算机技术
@@ -295,8 +294,8 @@ Dialogue: 1,0:10:52.40,0:10:54.72,Original,,0,0,0,,Coming up on How It's Made:
 Dialogue: 0,0:10:58.00,0:11:01.92,Translation,,0,0,0,,隐形眼镜, 从太空时代的新奇之物到二十年间
 Dialogue: 1,0:10:58.00,0:11:01.92,Original,,0,0,0,,contact lenses from space age and exotic to everyday
 Dialogue: 0,0:11:01.92,0:11:03.76,Translation,,0,0,0,,人人可用的日常用品
-Dialogue: 0,0:11:04.18,0:11:06.56,Translation,,0,0,0,,还有从法棍到圆顶白面包的面包,
 Dialogue: 1,0:11:01.92,0:11:03.76,Original,,0,0,0,,acceptance in just 20 years
+Dialogue: 0,0:11:04.18,0:11:06.56,Translation,,0,0,0,,还有从法棍到圆顶白面包的面包,
 Dialogue: 1,0:11:04.18,0:11:06.56,Original,,0,0,0,,and bread from baguettes to bloomers,
 Dialogue: 0,0:11:07.12,0:11:10.16,Translation,,0,0,0,,现代面包工厂犹如一场精心编排的交响乐
 Dialogue: 1,0:11:07.12,0:11:10.16,Original,,0,0,0,,the choreographed symphony of a modern day bread factory.
