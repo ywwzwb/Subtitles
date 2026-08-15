@@ -14,9 +14,9 @@ Video File: S01E04 助听器 三维拼图 胶垫 抽水马桶.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 450
-Active Line: 468
-Video Position: 31797
+Scroll Position: 326
+Active Line: 327
+Video Position: 22729
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -354,7 +354,7 @@ Dialogue: 0,0:14:51.52,0:14:53.76,Translation,,0,0,0,,此时的胶垫仍然非�
 Dialogue: 1,0:14:51.52,0:14:53.76,Original,,0,0,0,,The rubber mats are still extremely hot.
 Dialogue: 0,0:14:54.40,0:14:57.20,Translation,,0,0,0,,用水流喷淋冷却几分钟
 Dialogue: 1,0:14:54.40,0:14:57.20,Original,,0,0,0,,They're cooled with jets of water for a period of several minutes.
-Dialogue: 0,0:15:04.16,0:15:08.16,Translation,,0,0,0,,冷却后的胶垫现在可以送往下一道工序
+Dialogue: 0,0:15:05.42,0:15:08.16,Translation,,0,0,0,,冷却后的胶垫现在可以送往下一道工序
 Dialogue: 1,0:15:05.42,0:15:08.16,Original,,0,0,0,,The cooled mats can now be sent to the next department.
 Dialogue: 0,0:15:09.04,0:15:12.64,Translation,,0,0,0,,切割中心的传送带在切割前先对胶垫定位
 Dialogue: 1,0:15:09.04,0:15:12.64,Original,,0,0,0,,This conveyor in the cutting centre positions the mat before it's cut.
@@ -402,7 +402,7 @@ Dialogue: 2,0:16:54.64,0:16:57.39,Annotation,,0,0,0,,罗丹：法国著名雕塑
 Dialogue: 0,0:16:57.28,0:17:01.20,Translation,,0,0,0,,制作马桶的第一步，是组装几块模具
 Dialogue: 1,0:16:57.28,0:17:01.20,Original,,0,0,0,,The initial stage in creating a lavatory is to assemble several moulds.
 Dialogue: 0,0:17:01.92,0:17:05.60,Translation,,0,0,0,,每款新产品都要设计一个母石膏模
-Dialogue: 1,0:17:01.92,0:17:05.60,Original,,0,0,0,,Each new product requires the design of a master plaster mould 
+Dialogue: 1,0:17:01.92,0:17:05.60,Original,,0,0,0,,Each new product requires the design of a master plaster mould
 Dialogue: 0,0:17:05.60,0:17:09.04,Translation,,0,0,0,,再据此制作塑料工具模或母模
 Dialogue: 1,0:17:05.60,0:17:09.04,Original,,0,0,0,,from which they will produce a plastic tool or master.
 Dialogue: 0,0:17:10.08,0:17:12.88,Translation,,0,0,0,,用它来制作批量石膏模
